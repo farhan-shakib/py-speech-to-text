@@ -2,9 +2,9 @@
 
 ## Requirements
 
-*pydub==0.23.1
-*SpeechRecognition==3.8.1
-*Active internet connection
+* pydub==0.23.1
+* SpeechRecognition==3.8.1
+* Active internet connection
 
 ## Usage
 
